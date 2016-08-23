@@ -64,8 +64,13 @@ footer ul li {
 }
 
 .article-actions {
-  border-top: 1px solid #2E2F30;
+  border-top: 1px solid #eaeaea;
   padding-top: 5px;
+}
+
+.article-meta-details {
+  border-top: 1px solid #eaeaea;
+  margin-top: 15px;
 }
 
 .description {
@@ -78,7 +83,7 @@ footer ul li {
   }
 
 .article-body {
-  border-top: 1px solid #2E2F30;
+  border-top: 1px solid #eaeaea;
   padding-top: 15px;
   padding-bottom: 15px;
 }
